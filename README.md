@@ -5,10 +5,9 @@ Uma API que mostra noticias sobre cripto moedas e mostra o preço das 10 moedas 
 Você pode executar este projeto em sua máquina local. Basta fazer download do ficheiro:
 
 
-
 ### Como iniciar o projeto
 
-1. Execute o comando acima para instalar todos os pacotes
+1. Execute o comando abaixo para instalar todos os pacotes
 
 ### `npm i`
 
